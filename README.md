@@ -12,7 +12,7 @@ The **Calculator** is a simple and user-friendly web application built using **H
 - 🔄 **Clear and Reset functions**
 - 🎯 **Keyboard support for input and operations**
 
-- **View live in this link:** [Simple Calculator](https://jaganparida.github.io/Simple_Calculator/)
+- **View live in this link:** [Simple Calculator](https://jaganparida.github.io/Calculator/)
 
 ## Technologies Used
 
